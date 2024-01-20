@@ -1,0 +1,28 @@
+body{
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    text-align: center;
+    width: 50vw;
+    height: 30vh;
+}
+#but{
+    padding: 6px 20px;
+    border-style: none;
+    background-color: rgba(0, 0, 255, 0.505);
+    color: antiquewhite;
+    position: absolute;
+    top: 60VH;
+    left: 46vw;
+    cursor: pointer;
+}
+img{
+    position: absolute;
+    top: 20vh;
+    width: 20vw;
+    height: auto;
+}
